@@ -49,5 +49,28 @@ _Esto nos retorna las coordenadas de las fichas_
 #
 _Esto nos muestra por pantalla quien es el ganador_
 ##
+Este es el cuarto ejercicio
 
+/**
+* Este programa crea un tablero de damas lo recorre y dice quien gana
+* @version 1.1
+* @author Borja de Saa
+  */
+  public class examen {
+  /**
+    * Funcion principal
+##
+/**
+* Esta funcion es para crear variables
+* @param tablero[][]
+* @param blancas
+* @param negras
+  crearVariables(tablero[][],int blancas, int negras)
+##
+/**
+* Esta función sirve para recorrer el tablero
+* @param tablero[][]
+* @param int i
+* @param int j
+  recorrerTablero(tablero[][],int i, int j)
 
